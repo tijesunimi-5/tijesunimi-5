@@ -1,4 +1,7 @@
+#About Me
 I'm a self taught frontend developer (3D) and a web machine learning engineer (tensorflow.js).
+
+##
 - 👀 I’m interested in open source project and team collaboration 
 - 🌱 I’m currently learning web machine learning 
 - 💞️ I’m looking to collaborate on projects that solve real world problems 
