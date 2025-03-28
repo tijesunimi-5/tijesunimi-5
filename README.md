@@ -1,8 +1,8 @@
 #About Me
-I'm a self taught frontend developer (3D) and a web machine learning engineer (tensorflow.js).
+- I'm a self taught frontend developer (3D) and a web machine learning engineer (tensorflow.js).
 
-##
-- 👀 I’m interested in open source project and team collaboration 
+##Socials
+
 - 🌱 I’m currently learning web machine learning 
 - 💞️ I’m looking to collaborate on projects that solve real world problems 
 - 📫 How to reach me https://www.linkedin.com/in/idowu-tijesunimi-189492294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
