@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0ea063b-2d3f-4047-80db-52748cc7c809)# 👋 Hey there, I'm Tijesunimi Idowu!  
+# 👋 Hey there, I'm Tijesunimi Idowu!  
 
 🚀 **3D Frontend Developer | Web Machine Learning Enthusiast**  
 
