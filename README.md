@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tijesunimi Idowu!  
+![image](https://github.com/user-attachments/assets/c0ea063b-2d3f-4047-80db-52748cc7c809)# 👋 Hey there, I'm Tijesunimi Idowu!  
 
 🚀 **3D Frontend Developer | Web Machine Learning Enthusiast**  
 
@@ -24,7 +24,7 @@ I'm passionate about crafting immersive 3D web experiences and exploring the int
 ## 🔗 Connect with me  
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codelight001)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Idowu-Tijesunimi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Idowu-Tijesunimi](https://www.linkedin.com/in/idowu-tijesunimi-189492294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tijesunimi-5) 
 
 ---
